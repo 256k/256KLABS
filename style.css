@@ -1,1 +1,5 @@
 html, body { margin: 0; padding:0; height: 100%; text-align: center; font-family: monospace;}
+
+.main h3 {
+	display: inline;
+}
