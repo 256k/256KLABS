@@ -1,0 +1,11 @@
+<article>
+  <h2 class="post-title">{{ post.title | escape }}</h2>
+  <p class="post-date">
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <a href="{{ post.url | relative_url }}"> {{ post.date | date: date_format }}</a>
+    </time> 
+  </p>
+  {{ post.content }}
+  <hr/>
+</article>
