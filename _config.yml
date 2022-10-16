@@ -1,6 +1,6 @@
 # see _data/meta.yml (so you don't have to restart jekyll to see changes)
 baseurl: '/256klabs'
-url: https://256k.github.io
+url: https://256klabs.com
 permalink: pretty
 sort_by: year, month
 markdown: kramdown
