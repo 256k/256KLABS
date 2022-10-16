@@ -9,11 +9,15 @@ html {
 body {
   font-family: monospace;
   font-size: 18px;
-  max-width: 1200px;
+  /* max-width: 1200px; */
   width: 100%;
   margin: auto;
-  padding: 10px 40px;
-  border: 5px solid #000;
+  /* padding: 10px 40px;
+  border: 5px solid #000; */
+}
+
+@media (max-width: 480px) {
+  body {font-size: 14px;}
 }
 
 .active {
@@ -34,5 +38,12 @@ a:visited {
 
 article:last-child hr {
   display: none;
+}
+.post-title {
+  margin: 30px auto 0;
+}
+.post-date {
+  /* font-size: 12px; */
+  margin: 5px auto 35px;
 }
 /*# sourceMappingURL=style.css.map */

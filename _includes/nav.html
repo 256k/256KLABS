@@ -1,9 +1,5 @@
 <nav class="container">
-  <div class="row">
-    <div class="col">
       {% for item in site.data.nav.items %}
       <span class="me-3{% if item.url == page.url %} active{% endif %}"><a href="{{ site.url }}{{site.baseurl}}{{ item.url }}" target="{% if item.target == 'blank' %}_blank{% endif %}">{{ item.title }}</a></span>
       {% endfor %}
-    </div>
-  </div>
 </nav>
