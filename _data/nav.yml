@@ -1,0 +1,16 @@
+items:
+
+- title: home
+  url: /
+
+- title: projects
+  url: /projects
+
+- title: logs
+  url: /logs
+
+- title: about
+  url: /about
+
+- title: feed
+  url: /feed.xml

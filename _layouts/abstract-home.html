@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include variables.html %}
+{% include head.html %}
+<body class="homepage">
+<h1>{{site.data.meta.title }}</h1>
+{% include nav.html %}
+  <div class="content">
+    {{ content }}
+  </div>
+  {% include footer.html %}
+  {% include script.html %}
+  </body>
+
+</html>

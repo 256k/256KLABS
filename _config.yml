@@ -1,0 +1,12 @@
+# see _data/meta.yml (so you don't have to restart jekyll to see changes)
+baseurl: '256k-logs'
+url: https://256k.github.io/
+permalink: pretty
+sort_by: year, month
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+include: ['_pages']
