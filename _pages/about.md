@@ -5,7 +5,7 @@ permalink: /about
 ---
 # About
 
-Hi, my name is Fayek, <br/>
+Hi, my name is Fayek, also go by 256k. <br/>
 I'm a web developer by day and a polymath artist by night. <br/>
 I make hardware, write software, take photos, compose music and sometimes skateboard.
 
