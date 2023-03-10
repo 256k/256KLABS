@@ -28,6 +28,10 @@ color: #fff;
   font-weight: 800;
 }
 
+h3 {
+  font-weight: normal; 
+}
+
 img {
   width: 100%;
   max-width: 920px;
