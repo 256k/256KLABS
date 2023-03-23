@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn Fundamentals"
-date: 2022-10-15
+date: 2023-03-23
 ---
 
  I am a self taught web developer. jumped straight into javascript essentials then moved into frameworks. after 5 years started feeling like I really didn't know what the fuck I was actually doing and was burnt out on javascript and the whole web dev industry in general. was ready to call it quits. then I got interested in learning about the absolute fundamentals of computing, since I have a faily good understanding of electronics, I started studying the link between software and hardware and how a CPU got its instructions and really really down the core fundamental binary/hex/assembly level and logic gates. then I started going back up through that to learning C and understanding programming from a much closer level to the metal as they say, I've also taken tangents to learn less common programming paradigms and languages (lisp, functional, some esoteric stuff, just for fun) and while it's a vast sea of knowledge that i'm only starting to learn, I finally found the passion for coding back. and I can already tell that applying that knowledge and understanding to my code has made a drastic difference in the way I think and see the code. 
