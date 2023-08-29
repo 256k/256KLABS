@@ -4,4 +4,6 @@ title: projects
 permalink: /projects
 ---
 
-soon...
+[256k eurorack modules](https://www.modulargrid.net/e/vendors/view/884)
+
+[SSMP: super simple macropad](https://www.etsy.com/ca/listing/1088544281/super-simple-macropad?show_sold_out_detail=1&ref=nla_listing_details)
