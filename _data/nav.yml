@@ -5,9 +5,12 @@ items:
 
 - title: projects
   url: /projects
-
+ 
 - title: logs
   url: /logs
+
+- title: docs
+  url: /docs
 
 - title: about
   url: /about

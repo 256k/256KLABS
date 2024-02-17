@@ -10,3 +10,22 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 include: ['_pages']
+
+collections:
+  docs:
+    output: true
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "docs"
+
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "projects"
