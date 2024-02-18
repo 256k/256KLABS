@@ -1,6 +1,6 @@
 <div class="gallery-item">
-<a href="{{ post.url | relative_url}}">
- <img src="{{post.image | escape}}" alt="{{post.title}}"/>
-  {{ post.title | escape }}
-</a>
+  <a href="{{ post.url | relative_url}}">
+    <img src="{{post.image | escape}}" alt="{{post.title}}" />
+    {{ post.title | escape }}
+  </a>
 </div>

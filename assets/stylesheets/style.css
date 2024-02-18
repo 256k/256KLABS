@@ -36,6 +36,10 @@ img {
   width: 100%;
   max-width: 920px;
 }
+pre {
+  padding: 20px;
+  background-color: #ddd;
+}
 
 figure {
   margin: 0;
