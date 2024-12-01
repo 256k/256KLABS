@@ -2,4 +2,6 @@
       {% for item in site.data.nav.items %}
       <span class="me-3{% if item.url == page.url %} active{% endif %}"><a href="{{ site.url }}{{site.baseurl}}{{ item.url }}" target="{% if item.target == 'blank' %}_blank{% endif %}">{{ item.title }}</a></span>
       {% endfor %}
+  <a href="http://decadv.256klabs.com">[ December Adventure 2024 ]</a>
+
 </nav>
